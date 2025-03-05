@@ -1,2 +1,1 @@
-# TCB
-TempleOS and ZealOS CPU Benchmark
+# TempleOS and ZealOS OpenSource Software
